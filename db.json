@@ -1,0 +1,81 @@
+{
+  "videos": [
+    {
+      "id": "d1b7",
+      "caption": "react",
+      "ImageURL": "https://images.moneycontrol.com/static-mcnews/2024/02/Premalu-X-@BhavanaStudios-1-1.jpg",
+      "youtubeLink": "http://www.youtube.com/embed/lUNotjsgodA"
+    },
+    {
+      "id": "185c",
+      "caption": "react",
+      "ImageURL": "https://images.moneycontrol.com/static-mcnews/2024/02/Premalu-X-@BhavanaStudios-1-1.jpg",
+      "youtubeLink": "http://www.youtube.com/embed/lUNotjsgodA"
+    },
+    {
+      "id": "d6dd",
+      "caption": "css",
+      "ImageURL": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+      "youtubeLink": "http://www.youtube.com/embed/wRNinF7YQqQ"
+    }
+  ],
+  "categories": [
+    {
+      "id": "20db",
+      "categoryName": "Trailers",
+      "allVideos": [
+        null,
+        {
+          "id": "d6dd",
+          "caption": "css",
+          "ImageURL": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+          "youtubeLink": "http://www.youtube.com/embed/wRNinF7YQqQ"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "e377",
+      "caption": "welcome to hyberabad",
+      "youtubeLink": "http://www.youtube.com/embed/9_xMvx-vnJ0",
+      "timeStamp": "02/27/2024, 02:07:18 PM"
+    },
+    {
+      "id": "cc6e",
+      "caption": "react",
+      "youtubeLink": "http://www.youtube.com/embed/lUNotjsgodA",
+      "timeStamp": "02/28/2024, 12:34:01 PM"
+    },
+    {
+      "id": "01db",
+      "caption": "react",
+      "youtubeLink": "http://www.youtube.com/embed/lUNotjsgodA",
+      "timeStamp": "02/28/2024, 12:34:07 PM"
+    },
+    {
+      "id": "bb19",
+      "caption": "css",
+      "youtubeLink": "http://www.youtube.com/embed/wRNinF7YQqQ",
+      "timeStamp": "02/28/2024, 12:34:17 PM"
+    },
+    {
+      "id": "4351",
+      "caption": "react",
+      "youtubeLink": "http://www.youtube.com/embed/lUNotjsgodA",
+      "timeStamp": "02/28/2024, 12:43:04 PM"
+    },
+    {
+      "id": "077c",
+      "caption": "react",
+      "youtubeLink": "http://www.youtube.com/embed/lUNotjsgodA",
+      "timeStamp": "02/28/2024, 12:43:10 PM"
+    },
+    {
+      "id": "7d8b",
+      "caption": "react",
+      "youtubeLink": "http://www.youtube.com/embed/lUNotjsgodA",
+      "timeStamp": "02/28/2024, 12:51:31 PM"
+    }
+  ]
+}
